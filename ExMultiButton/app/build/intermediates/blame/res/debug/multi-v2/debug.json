@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "21,28",
+                        "startColumns": "4,4",
+                        "startOffsets": "858,1149",
+                        "endLines": "27,30",
+                        "endColumns": "12,12",
+                        "endOffsets": "1144,1304"
+                    }
+                },
+                {
+                    "source": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "H:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "20,4,3,5,8,17,18,19,9,10,11,12,13,14,15,16,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "781,111,59,165,310,661,701,741,349,388,427,466,505,544,583,622,269",
+                        "endColumns": "32,52,50,52,37,38,38,38,37,37,37,37,37,37,37,37,39",
+                        "endOffsets": "809,159,105,213,343,695,735,775,382,421,460,499,538,577,616,655,304"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,202,255,306,359,397,436,475,514,552,590,628,666,704,742,780,818",
+                        "endColumns": "32,52,50,52,37,38,38,38,37,37,37,37,37,37,37,37,39",
+                        "endOffsets": "197,250,301,354,392,431,470,509,547,585,623,661,699,737,775,813,853"
+                    }
+                }
+            ]
+        }
+    ]
+}

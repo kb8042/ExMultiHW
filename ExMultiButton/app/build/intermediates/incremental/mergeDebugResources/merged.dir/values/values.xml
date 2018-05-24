@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="_0">0</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ExMultiButton</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="phone_1">1</string>
+    <string name="phone_10">*</string>
+    <string name="phone_11">0</string>
+    <string name="phone_12">#</string>
+    <string name="phone_2">2</string>
+    <string name="phone_3">3</string>
+    <string name="phone_4">4</string>
+    <string name="phone_5">5</string>
+    <string name="phone_6">6</string>
+    <string name="phone_7">7</string>
+    <string name="phone_8">8</string>
+    <string name="phone_9">9</string>
+    <string name="phone_n">總數：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

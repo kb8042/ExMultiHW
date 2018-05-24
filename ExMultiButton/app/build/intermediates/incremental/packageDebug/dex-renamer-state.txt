@@ -1,0 +1,7 @@
+#Wed Apr 04 01:11:53 CST 2018
+base.0=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3925f1329fdf739b366e8897596b85b39dc1ffc2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_694643f2df6d6e282325cebcad49188f6bf19e1d\\classes.dex
+base.1=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_694643f2df6d6e282325cebcad49188f6bf19e1d
+file.0=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3925f1329fdf739b366e8897596b85b39dc1ffc2\\classes.dex

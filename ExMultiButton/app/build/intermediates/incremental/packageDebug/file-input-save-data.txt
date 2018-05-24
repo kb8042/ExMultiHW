@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Apr 04 01:11:53 CST 2018
+2.base=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3925f1329fdf739b366e8897596b85b39dc1ffc2
+5.file=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_694643f2df6d6e282325cebcad49188f6bf19e1d\\classes.dex
+5.set=DEX
+3.base=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=DEX
+4.base=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+5.base=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_694643f2df6d6e282325cebcad49188f6bf19e1d
+4.set=ANDROID_RESOURCE
+6.base=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+1.set=ANDROID_RESOURCE
+7.base=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3925f1329fdf739b366e8897596b85b39dc1ffc2\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

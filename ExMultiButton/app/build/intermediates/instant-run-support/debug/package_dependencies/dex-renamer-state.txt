@@ -1,0 +1,4 @@
+#Wed Apr 04 01:11:51 CST 2018
+base.0=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_81cd0bfd59ea3b3b59a5d991ae029490b2dd6bc7
+renamed.0=classes.dex
+file.0=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_81cd0bfd59ea3b3b59a5d991ae029490b2dd6bc7\\classes.dex

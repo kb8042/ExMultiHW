@@ -1,0 +1,4 @@
+#Mon Apr 16 10:02:12 CST 2018
+base.0=H\:\\android_APP\\Projects\\StudioProjects\\ExMultiButton\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
